@@ -1,22 +1,86 @@
-<resources>
-    <string name="app_name">Cinema</string>
+    <resources>
+        <string name="app_name">Cinema</string>
+    
+        <!-- Movie Titles -->
+        <array name="movie_title">
+            <item>Kumathon</item>
+            <item>Galactic Quest</item>
+            <item>The Last Forest</item>
+            <item>Mystery of the Mansion</item>
+            <item>Timeless Love</item>
+        </array>
+    
+        <!-- Movie Trailers -->
+        <array name="movie_trailer">
+            <item>https://www.youtube.com/watch?v=XC3ftnZ1WYk</item>
+            <item>https://www.youtube.com/watch?v=exampleLink2</item>
+            <item>https://www.youtube.com/watch?v=exampleLink3</item>
+            <item>https://www.youtube.com/watch?v=exampleLink4</item>
+            <item>https://www.youtube.com/watch?v=exampleLink5</item>
+        </array>
+    
+        <!-- Movie Descriptions -->
+        <array name="movie_description">
+            <item>The story happened when \" Ging \" took his son on vacation...</item>
+            <item>A group of astronauts embarks on a perilous journey...</item>
+            <item>Amidst the vast wilderness, a city-dweller finds more than...</item>
+            <item>A detective stumbles upon a mansion with secrets darker...</item>
+            <item>A love story that transcends time and space, bringing two...</item>
+        </array>
+    
+        <!-- Movie Booking Links -->
+        <array name="movie_booking">
+            <item>https://www.cgv.vn/en/kumarn.html</item>
+            <item>https://www.cgv.vn/en/galacticquest.html</item>
+            <item>https://www.cgv.vn/en/lastforest.html</item>
+            <item>https://www.cgv.vn/en/mansionmystery.html</item>
+            <item>https://www.cgv.vn/en/timelesslove.html</item>
+        </array>
+        <!-- Movie Ticket Prices -->
+        <integer-array name="movie_ticket_price">
+            <item>200</item>
+            <item>250</item>
+            <item>220</item>
+            <item>210</item>
+            <item>230</item>
+        </integer-array>
+    
+        <!-- Movie Durations -->
+        <integer-array name="movie_duration">
+            <item>88</item>
+            <item>120</item>
+            <item>95</item>
+            <item>110</item>
+            <item>90</item>
+        </integer-array>
+    
+        <!-- Movie Categories -->
+        <array name="movie_category">
+            <item>Horror</item>
+            <item>Sci-Fi</item>
+            <item>Adventure</item>
+            <item>Mystery</item>
+            <item>Romance</item>
+        </array>
+    
+    
+        <!-- Movie Ratings -->
+        <array name="movie_rating">
+            <item>4.5f</item>
+            <item>3.8f</item>
+            <item>3.2f</item>
+            <item>4.3f</item>
+            <item>5.0f</item>
+        </array>
 
-    <array name="movie_title">
-        <item>Kumathon</item>
-    </array>
-    <array name="movie_trailer">
-        <item>https://www.youtube.com/watch?v=XC3ftnZ1WYk</item>
-    </array>
-    <array name="movie_description">
-        <item>The story happened when \" Ging \" took his son on vacation at the house in the middle of the forest. There was a strange man who broke into the house and kidnapped her son. Ging went to report the police, so she knew that the man named \" In \" was an undertaker at the temple. But the undertaker said he didn \' t break into the house. Ging had to find evidence to blame the undertaker but couldn \' t catch it. And Ging still had to face the secret story that happened in the house, so she looked for \" Hike \" in the forest to ask for help. But returned to the forest and happened to see \" In \" doing a ritual to take the child \' s body to make a child. In chased the branch until she lost consciousness. When \" Nop \" came to the Ging \' s girlfriend came to the house with \" Pam \", the nurse who helped him. She found that the branch was unconscious like a madman.</item>
-    </array>
-    <array name="movie_booking">
-        <item>https://www.cgv.vn/en/kumarn.html</item>
-    </array>
-    <integer-array name="movie_duration">
-        <item>88</item>
-    </integer-array>
-    <array name="movie_category">
-        <item>Horror</item>
-    </array>
-</resources>
+
+        <!-- Movie Release Dates -->
+        <array name="movie_release_date">
+            <item>2023-01-01</item>
+            <item>2023-03-05</item>
+            <item>2023-03-25</item>
+            <item>2023-04-15</item>
+            <item>2023-04-15</item>
+        </array>
+    
+    </resources>
