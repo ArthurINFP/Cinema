@@ -160,7 +160,7 @@ public class MapFragment extends Fragment implements OnMapReadyCallback{
 
     public void nextLocation() {
         if (googleMap == null) {
-            Toast.makeText(mainActivity, "Please turn on Location Service and grant permission, then Refresh to find cinema location.",
+            Toast.makeText(mainActivity, "Please turn on Location Service and grant permission, then Refresh to find cinema locations.",
                     Toast.LENGTH_SHORT).show();
             return;
         }
