@@ -24,9 +24,9 @@ Our Android Cinema App offers a seamless and interactive way for movie enthusias
 ### Prerequisites
 * Android Studio
 * Firebase account
-For user want to try the app
-Email: testing@gmail.com
-Password: pass1235
+  - For user want to try the app
+  - Email: testing@gmail.com
+  - Password: pass1235
 * Installation
 1. Clone the repository to your local machine.
 2. Open the project in Android Studio.
